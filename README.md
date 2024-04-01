@@ -1,38 +1,26 @@
 ## Visão Geral
 
-O Dashboard de Análises de Vendas Globais fornece uma visão abrangente das vendas de nossa empresa em todo o mundo. Ele apresenta métricas-chave e insights para ajudar a entender o desempenho de vendas global.
+O Dashboard de Análises de Vendas Globais fornece uma visão abrangente das vendas de uma empresa fictícia em todo o mundo. Ele apresenta métricas-chave e insights para ajudar a entender o desempenho de vendas global.
 
 ## Métricas Principais
 
 ### Vendas Totais
 
 - Total de Vendas: [Inserir valor]
-- Comparação com o período anterior: [Inserir percentual de variação]
 
-### Geografia
 
-- Distribuição de Vendas por Região:
-  - América do Norte: [Inserir valor]
-  - América do Sul: [Inserir valor]
-  - Europa: [Inserir valor]
-  - Ásia: [Inserir valor]
-  - África: [Inserir valor]
-  - Oceania: [Inserir valor]
+### Categorias
 
-### Produtos
-
-- Top 5 Produtos por Vendas:
-  1. [Nome do Produto 1]: [Inserir valor]
-  2. [Nome do Produto 2]: [Inserir valor]
-  3. [Nome do Produto 3]: [Inserir valor]
-  4. [Nome do Produto 4]: [Inserir valor]
-  5. [Nome do Produto 5]: [Inserir valor]
+- Top 3 vendas por Categoria:
+  1. Suprimentos
+  2. Tecnologia
+  3. Móveis
 
 ## Gráficos
 
-### Gráfico de Vendas por Região
+### Gráfico de Total de Vendas por Categoria
 
-[Inserir gráfico de pizza ou gráfico de barras horizontal mostrando a distribuição de vendas por região]
+![Gráfico de Pizza](https://github.com/FVSSANTOS/imagens/blob/main/image.png)
 
 ### Gráfico de Tendência de Vendas
 
