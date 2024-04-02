@@ -24,7 +24,7 @@ O Dashboard de Análises de Vendas Globais fornece uma visão abrangente das ven
 
 ### Gráfico Contagem de Pedido
 
-![](https://github.com/FVSSANTOS/imagens/blob/main/image.PNG)
+![](https://github.com/FVSSANTOS/imagens/blob/main/image.png)
 
 ### Gráfico 
 
