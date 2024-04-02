@@ -6,7 +6,9 @@ O Dashboard de Análises de Vendas Globais fornece uma visão abrangente das ven
 
 ### Vendas Totais
 
-- Total de Vendas: [Inserir valor]
+- Total de Vendas:
+
+  ![](https://github.com/FVSSANTOS/imagens/blob/main/total.PNG)
 
 
 ### Categorias
@@ -26,9 +28,14 @@ O Dashboard de Análises de Vendas Globais fornece uma visão abrangente das ven
 
 ![](https://github.com/FVSSANTOS/imagens/blob/main/image.png)
 
-### Gráfico 
+### Gráfico de Mapa com os Países com Maior Média de Venda
 
-## Insights
+![](https://github.com/FVSSANTOS/imagens/blob/main/mapa.PNG)
+
+### Gráfico de Média de Desconto por SubCategoria
+
+![](https://github.com/FVSSANTOS/imagens/blob/main/media%20desconto.PNG)
+
 
 
 
